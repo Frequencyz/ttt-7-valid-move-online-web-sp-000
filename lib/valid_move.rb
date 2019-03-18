@@ -19,4 +19,4 @@ def valid_move?(board, index)
     end
   end
 
-  rspec spec/01_tic_tac_toe_spec.rb
+ 
